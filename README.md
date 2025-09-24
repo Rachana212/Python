@@ -1,42 +1,25 @@
-📊 Seaborn Visualizations Notebook
+## 📊 Seaborn Visualizations
 
-This Jupyter notebook (Seaborn.ipynb) illustrates how to use Seaborn, a powerful Python library for statistical data visualization, to create elegant and informative plots. The notebook covers:
+This repository contains a Jupyter Notebook [`Seaborn.ipynb`](Seaborn.ipynb) that demonstrates the use of **Seaborn**, a Python library for creating beautiful and informative statistical graphics.
 
-Basic setup and importing of required packages (Seaborn, Matplotlib, Pandas, etc.)
+### 🔹 Contents
+- Introduction to Seaborn and setup
+- Loading datasets and basic operations
+- Common plot types:
+  - Scatter Plot
+  - Line Plot
+  - Bar Plot
+  - Box Plot
+  - Histogram / Distribution Plot
+  - Heatmap
+- Customizing visualizations:
+  - Styles & themes
+  - Color palettes
+  - Titles, labels, legends
+- Correlation and statistical relationships
 
-Loading and preparing data for visualization
-
-Creating a variety of plot types:
-  • Scatterplots
-  • Line plots
-  • Bar plots
-  • Box plots
-  • Histograms / distribution plots
-  • Heatmaps / correlation matrices
-
-Customizing plot aesthetics:
-  • Themes, styles, color palettes
-  • Titles, axis labels, legends
-  • Annotating charts and fine-tuning layout
-
-Use cases / examples of interpreting the plots
-
-Best practices in choosing the right chart type for the data
-
-🛠 How to Use
-
-Clone or download the repository.
-
-Open Seaborn.ipynb in Jupyter (or JupyterLab / VSCode).
-
-Execute the cells sequentially, observing how each visualization is built up.
-
-Modify the data or parameters to experiment with your own datasets.
-
-Why This Notebook Is Useful
-
-Provides a hands-on walkthrough of Seaborn’s most common plotting functions
-
-Helps users understand not just how to plot, but why one plot is more suitable than another
-
-Serves as a reference and template for building your own visuals
+### 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Rachana212/Python.git
+   cd Python
